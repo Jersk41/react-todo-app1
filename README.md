@@ -1,8 +1,13 @@
-# React + Vite
+# Proyek React: Todo App 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ini adalah proyek Todo App (basic) dengan React + Vite dari pembelajaran React di [Progate](https://progate.com/)
 
-Currently, two official plugins are available:
+### Stacks
+Proyek ini dibuat dengan
+<div>
+    <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/React.png" width="200px" alt="react" draggable="false"/>
+    <img src="https://vitejs.dev/logo.svg" width="125px" alt="Vite" draggable="false"/>
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Attributes
+- Logo React dibuat oleh [Sawaratsuki](https://github.com/SAWARATSUKI/KawaiiLogos)
